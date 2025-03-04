@@ -1,0 +1,24 @@
+
+import sum.ereignis.*;
+import sum.komponenten.*;
+import sum.werkzeuge.*;
+
+/**
+ * @author
+ * @version
+ */
+public class SuMAnwendung extends EBAnwendung
+{
+    // Bezugsobjekte
+
+    // Attribute
+
+    // Konstruktor
+    public SuMAnwendung()
+    {
+        super();
+    }
+
+    // Dienste
+
+}
